@@ -39,7 +39,8 @@ div.block1{
 
     div.headshot{
     background: "../images/self.jpg";
-
+    max-width: 40%
+    
     
 
     }
