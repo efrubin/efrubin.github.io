@@ -3,10 +3,10 @@ body {
 }
 
 div.block1{
-    background-color: black;
-    width: 85%;
-    color: white;
-    margin: 20px;
-    padding: 20px;
+    background-color: #ffd699;
+    width: 90%;
+    color: black;
+    margin-right: 5%;
+    margin-left: 5%;
 
 }
