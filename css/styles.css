@@ -9,7 +9,7 @@ h2 {
 }
 
 @media (min-width: 400px) {
-div.block1{
+.block1{
     background-color: #ffcc33;
     width: 90%;
     color: black;
@@ -25,7 +25,7 @@ div.block1{
 }
 
 @media (min-width: 600px) {
-    div.block1{
+.block1{
     background-color: #ffcc33;
     width: 60%;
     color: black;
@@ -37,8 +37,8 @@ div.block1{
 
     }
 
-    div.headshot{
-    background: url("../images/self.jpg");
+.headshot{
+    background: url("../images/self.jpg") no-repeat;
     max-width: 40%
 
     
