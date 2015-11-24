@@ -38,8 +38,8 @@ h2 {
     }
 
 .headshot{
-    background: url("../images/self.jpg") no-repeat;
-    max-width: 40%
+    background-image: url("../images/self.jpg") no-repeat;
+    max-width: 20%
 
     
 
