@@ -1,12 +1,14 @@
 body {
-    background-image: url(../images/grid2.png);
+    background-color: #ffd699;
 }
 
 div.block1{
-    background-color: #ffd699;
+    background-color: #ffcc33;
     width: 90%;
     color: black;
     margin-right: 5%;
     margin-left: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
