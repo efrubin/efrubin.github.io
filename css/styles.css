@@ -8,7 +8,7 @@ h2 {
     font-size: 3.5em;
 }
 */
-/*@media (min-width: 400px) {
+@media (min-width: 400px) {
 .block1{
     background-color: #ffcc33;
     width: 90%;
@@ -23,14 +23,13 @@ h2 {
 }
 
 }
-*/
-/*@media (min-width: 600px) {
+
+@media (min-width: 600px) {
 .block1{
-    background-color: #ffcc33;
-    width: 60%;
+    background-color: #e6e6e6;
+    
     color: black;
-    margin-top: 10%;
-    margin-left: 25%;
+    margin-top: 15%;
     padding-top: 2%;
     padding-bottom: 2%;
     padding-left: 2%;
@@ -38,16 +37,17 @@ h2 {
 
     }
 
-.headshot{
-    background-image: url("../images/self.jpg") no-repeat;
-    max-width: 60%
 
-    
-
-    }
-}*/
+.block2{
+    background-color: #e6e6e6;
+    padding-bottom:2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%
+}
 
 img {
     margin-bottom: 15px;
-    width: 100%;
+    max-width: 100%;
+    
 }
