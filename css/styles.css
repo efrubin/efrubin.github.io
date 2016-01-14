@@ -1,14 +1,15 @@
 body {
     background-color: #f2f2f2;
     font-family: verdana;
+    /*background-image: url("../images/spacebkg.jpg");*/
     }
 
 .block1{
     position: relative;
     background-color: #e6e6e6;
-    
+
     color: black;
-    
+
     padding-top: 2%;
     padding-bottom: 1%;
     padding-left: 2%;
@@ -24,7 +25,7 @@ body {
     padding-left: 3%;
     padding-right: 3%;
     padding-top: 2%
-    
+
     }
 
 .headline{
@@ -36,11 +37,14 @@ body {
 }
 
 img {
-    
+
     max-width: 100%;
-    
+
 }
 
+.image-circle {
+  border-radius: 50%;
+}
 a.hover {
     text-decoration: underline;
 }
