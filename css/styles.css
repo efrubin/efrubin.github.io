@@ -1,5 +1,7 @@
 body {
     background-color: #f2f2f2;
+
+
     font-family: verdana;
     /*background-image: url("../images/spacebkg.jpg");*/
     }
@@ -7,9 +9,7 @@ body {
 .block1{
     position: relative;
     background-color: #e6e6e6;
-
     color: black;
-
     padding-top: 2%;
     padding-bottom: 1%;
     padding-left: 2%;
@@ -29,16 +29,18 @@ body {
     }
 
 .headline{
-    position: relative;
+    position: center;
     padding-right: 5px;
     padding-left: 5px;
-    background-color: #ffbf80;
+    background-color: #668CFF;
+    color: #0032CC;
+
     z-index: 10;
 }
 
 img {
 
-    max-width: 100%;
+    max-width: 98.1%;
 
 }
 
