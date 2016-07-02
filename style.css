@@ -2,6 +2,31 @@ body {
     margin: 20px;
     font-size: 1.0rem;
     max-width: 85ex;
-    font-family: 'Source Code Pro', monospace;
+    font-family: PT Sans, Myriad Pro, sans-serif;
     text-align: justify;
+}
+
+.fancy {
+    color: #62a5ff;
+}
+
+.box {
+    width: 620px;
+    margin: 20px auto;
+    padding-left: 40px;
+    background: #23513 
+}
+.label {
+    margin-right: 6px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+     margin: -1px;
+     padding: 0px;
+     background: #62a5ff;
+     color: white;
 }
